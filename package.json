@@ -1,0 +1,28 @@
+{
+  "name": "expressjs-mongoose-1on1",
+  "version": "1.0.0",
+  "description": "ExpresssJS Mongoose Ono to One Relationship with MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node ./server.js"
+  },
+  "keywords": [
+    "expressjs",
+    "mongoose",
+    "mongodb",
+    "one",
+    "to",
+    "one",
+    "relationship",
+    "noSQL",
+    "relatiionship",
+    "noSQL",
+    "ODM"
+  ],
+  "author": "sanengineer",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^5.10.9"
+  }
+}
