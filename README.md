@@ -18,7 +18,7 @@ Example:
         storage: "256GB"
         color: "Piano Red"
         code: 444GB // for this key code is automatically generated
-        brand: {name: "Microsoft"} // automaticly by referende on Brand table
+        brand: {name: "Microsoft"} // automatically by referende on Brand table
     }
 
 So you just change key `name` on **Brand** table, and change keys `name`, `storage`, `color` on **Device** table.
