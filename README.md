@@ -14,7 +14,7 @@ Example:
     For Device Table :
 
     {
-        name: "Surface Studio"
+        name: "Surface Book"
         storage: "1TB"
         color: "Piano Red"
         code: 444GB // for this key code is automaticly generated
