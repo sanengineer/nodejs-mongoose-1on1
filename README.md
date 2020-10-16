@@ -17,7 +17,7 @@ Example:
         name: "Surface Book"
         storage: "256GB"
         color: "Piano Red"
-        code: 444GB // for this key code is automatically generated
+        code: 444GB // key code is automatically generated
         brand: {name: "Microsoft"} // automatically by referende on Brand table
     }
 
