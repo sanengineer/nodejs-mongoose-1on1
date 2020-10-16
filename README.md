@@ -2,7 +2,7 @@
 ![ER Diagram One to One Relationship MongoDB with Mongoose and NodeJS](https://res.cloudinary.com/dsv9w1ey3/image/upload/v1602577764/github-images/ER_Diagram_MongoDB_One-to-One_Relationships_m0ex2w.png)
 
 # Data Base Input 
-You can change value of key database on server.js
+Change value of key database on server.js
 
 Example: 
 
