@@ -16,7 +16,7 @@ Example:
     {
         name: "Surface Studio"
         storage: "1TB"
-        color: "Piano Blue"
+        color: "Piano Red"
         code: 444GB // for this key code is automaticly generated
         brand: {name: "Microsoft"} // automaticly by referende on Brand table
     }
